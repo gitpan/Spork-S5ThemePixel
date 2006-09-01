@@ -1,14 +1,15 @@
-name: Spork-S5ThemePixel
-version: 0.01
 abstract: Pixel Theme for Spork::S5
-author: Florian Merges <fmerges@cpan.org>
-license: perl
-distribution_type: module
+author: 'Florian Merges <fmerges@cpan.org>'
 build_requires:
   Test::More: 0
-requires:
-  Spork::S5: 0
+distribution_type: module
+generated_by: Module::Install version 0.63
+license: perl
+name: Spork-S5ThemePixel
 no_index:
   directory:
     - inc
-generated_by: Module::Install version 0.34
+    - t
+requires:
+  Spork::S5: 0
+version: 0.02

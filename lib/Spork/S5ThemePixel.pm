@@ -1,6 +1,8 @@
 package Spork::S5ThemePixel;
 use Spork::S5Theme -Base;
-our $VERSION = '0.01';
+use strict;
+
+our $VERSION = '0.02';
 
 __DATA__
 

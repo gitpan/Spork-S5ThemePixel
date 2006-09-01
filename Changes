@@ -1,0 +1,6 @@
+Revision history for Perl extension Spork::S5ThemePixel
+
+0.02  Thu Aug 31 18:05:42 2006
+    - Added Changes and README files.
+    - Added POD tests.
+0.01  Tue Dec 18 13:36:00 2005
