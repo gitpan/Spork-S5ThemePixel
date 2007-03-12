@@ -1,4 +1,4 @@
-Spork::S5ThemePixel version 0.02
+Spork::S5ThemePixel version 0.03
 =======================================
 
 Spork S5 Theme
@@ -19,6 +19,7 @@ This module requires these other modules and libraries:
 Perl modules:
 
   Spork::S5
+  Spork::S5Theme
 
 COPYRIGHT AND LICENCE
 
